@@ -1,0 +1,17 @@
+[
+  {
+    "title": "California",
+    "image": "CA.JPG",
+    "category": "California"
+  },
+  {
+    "title": "Miami",
+    "image": "Miami.JPG",
+    "category": "Miami"
+  },
+  {
+    "title": "New York",
+    "image": "NY.jpeg",
+    "category": "New York"
+  }
+]
