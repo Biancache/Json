@@ -2,16 +2,19 @@
   {
     "title": "California",
     "image": "CA.JPG",
-    "category": "California"
+    "category": "California",
+    "describe": "This image captures a serene moment from a California vacation, set against a desert backdrop with iconic Joshua trees stretching towards a sky streaked with soft clouds. The foreground features an elegant outdoor setting by a pool, where the stillness of the water mirrors the tranquility of the surroundings. A quartet of wine glasses and a casually placed white towel on the concrete poolside suggest an interlude of leisure and relaxation. The corrugated metal fence stands in contrast with the natural landscape, providing a modern twist to the otherwise wild and untamed setting. This scene is evocative of the California spirit, blending the state's distinctive desert beauty with a sense of refined relaxation."
   },
   {
     "title": "Miami",
     "image": "Miami.JPG",
-    "category": "Miami"
+    "category": "Miami",
+    "describe": "This photograph presents a tranquil breakfast scene from a vacation in Miami, encapsulating the laid-back yet luxurious atmosphere of the city. The morning sun pours in through a large window, illuminating the room and highlighting a table dressed in white, laid out with a tempting breakfast spread. The food is arranged with care, inviting one to savor the meal in the calmness of the space. A chic shopping bag rests on a comfortable white sofa, suggesting a blend of relaxation and sophistication that is characteristic of Miami living. Beyond the glass, a balcony overlooks a grove of verdant palm trees, symbolizing the tropical charm and vibrancy of the location. This image captures not just a moment of repose but also the essence of a Miami vacation—sunshine, style, and the simple pleasure of a morning well begun."
   },
   {
     "title": "New York",
     "image": "NY.jpeg",
-    "category": "New York"
+    "category": "New York",
+    "describe": "This photograph showcases a captivating view from DUMBO, New York, where the historic grandeur of the Manhattan Bridge is juxtaposed with the modern architecture of a towering skyscraper. The bridge, an emblematic feature of New York's skyline, is elegantly framed by the fading light of the day, highlighting its intricate steelwork and strong arches. The skyscraper, with its reflective glass façade, glitters in the sunlight, contrasting with the deep blues of the twilight sky. Below, the East River carries a gentle flow, its surface shimmering with reflections from the surrounding city lights. This scene captures the essence of DUMBO, a neighborhood known for its stunning waterfront views and a blend of old-world charm with new-world sophistication."
   }
 ]
